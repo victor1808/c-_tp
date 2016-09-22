@@ -1,0 +1,6 @@
+c:\users\victor\documents\visual studio 2015\Projects\TP3 Victor Paz Friaz\TP3 Victor Paz Friaz\bin\Debug\TP3 Victor Paz Friaz.exe.config
+c:\users\victor\documents\visual studio 2015\Projects\TP3 Victor Paz Friaz\TP3 Victor Paz Friaz\bin\Debug\TP3 Victor Paz Friaz.exe
+c:\users\victor\documents\visual studio 2015\Projects\TP3 Victor Paz Friaz\TP3 Victor Paz Friaz\bin\Debug\TP3 Victor Paz Friaz.pdb
+c:\users\victor\documents\visual studio 2015\Projects\TP3 Victor Paz Friaz\TP3 Victor Paz Friaz\obj\Debug\TP3 Victor Paz Friaz.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2015\Projects\TP3 Victor Paz Friaz\TP3 Victor Paz Friaz\obj\Debug\TP3 Victor Paz Friaz.exe
+c:\users\victor\documents\visual studio 2015\Projects\TP3 Victor Paz Friaz\TP3 Victor Paz Friaz\obj\Debug\TP3 Victor Paz Friaz.pdb
