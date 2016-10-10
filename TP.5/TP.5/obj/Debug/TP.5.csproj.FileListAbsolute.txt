@@ -1,0 +1,6 @@
+c:\users\victor\documents\visual studio 2015\Projects\TP.5\TP.5\bin\Debug\TP.5.exe.config
+c:\users\victor\documents\visual studio 2015\Projects\TP.5\TP.5\obj\Debug\TP.5.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2015\Projects\TP.5\TP.5\bin\Debug\TP.5.exe
+c:\users\victor\documents\visual studio 2015\Projects\TP.5\TP.5\bin\Debug\TP.5.pdb
+c:\users\victor\documents\visual studio 2015\Projects\TP.5\TP.5\obj\Debug\TP.5.exe
+c:\users\victor\documents\visual studio 2015\Projects\TP.5\TP.5\obj\Debug\TP.5.pdb
